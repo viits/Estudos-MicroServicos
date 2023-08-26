@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FwGCcvbOEXj7/e8HFscYpO/JTPOzpwXI/segQItIIREVcxT4cmImw8MdnAPQTUq935hkMvZ0j3kU+ouaZ4/wHQ==",
+  "dgSpecHash": "aPYg9sre84B8Ry6/FSRD2JorFFFa2YP42bY9hM6DdpmbikQPY6rrcVYB5oRPoK6fGnDy+srOKvNoeyTDQBIRnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThinkPad\\Documents\\Estudos\\EstudoNet\\Alura Cursos\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+  "projectFilePath": "C:\\Users\\ThinkPad\\Documents\\Estudos\\EstudoNet\\Alura Cursos\\microservicos\\RestauranteService\\RestauranteService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -74,8 +74,8 @@
     "C:\\Users\\ThinkPad\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
